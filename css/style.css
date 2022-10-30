@@ -1,0 +1,13 @@
+body {
+  background: rgba(65, 107, 68, 0.5254901961);
+}
+
+.wrapper {
+  width: 400px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  top: 50%;
+  background-color: rgb(145, 85, 130);
+  padding: 20px;
+}/*# sourceMappingURL=style.css.map */
